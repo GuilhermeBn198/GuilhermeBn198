@@ -1,4 +1,4 @@
-####
+<!--
 <style>
     .flexbox{
         display: flex;
@@ -13,7 +13,7 @@
         display:inline-block;
     }
 </style>
-####
+-->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=180&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello!+my+name+is+guilherme+bernardo;I'm+21+years+old;from+Brazil;and+I+study+Computer+Science+at+UFRR;Be+welcome!+:%29)](https://git.io/typing-svg)
@@ -23,22 +23,22 @@
   
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeBn198&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
- teste
+
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=GuilhermeBn198&theme=gotham&hide_border=true&area=true)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=GuilhermeBn198&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-<div class='flexbox'>
-    <div class="item">  
+<div style=" display: flex; text-align:center; width:100%; justify-content: space-around;">
+    <div style=" margin: auto; text-align:left; display:inline-block;">  
         <a href="https://www.instagram.com/guilhermebn__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
     </div>
-    <div class="item">  
+    <div style=" margin: auto; text-align:left; display:inline-block">   
         <a href="https://www.linkedin.com/in/guilhermebn198/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%a1f75fe?style=for-the-badge&logo=LinkedIn&logoColor=white"</a>
     </div>
 </div>
-### ------------------------------------------------------------------------------
+
 
 ### Main skills:  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
