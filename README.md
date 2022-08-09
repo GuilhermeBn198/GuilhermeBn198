@@ -74,7 +74,7 @@
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{GuilhermeBn198}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{hugolima03}/count.svg" /></p> 
 <br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=180&section=footer&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
