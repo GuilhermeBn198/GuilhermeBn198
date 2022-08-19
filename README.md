@@ -29,15 +29,11 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=GuilhermeBn198&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
-
-<!-- <div style=" display: flex; text-align:center; width:100%; justify-content: space-around;">
-    <div style=" margin: auto; text-align:left; display:inline-block;">  
+ 
+<div align=center>
         <a href="https://www.instagram.com/guilhermebn__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-    </div>
-    <div style=" margin: auto; text-align:left; display:inline-block">   
         <a href="https://www.linkedin.com/in/guilhermebn198/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%a1f75fe?style=for-the-badge&logo=LinkedIn&logoColor=white"</a>
-    </div>
-</div> -->
+</div>
 
 
 ### Main skills:  
