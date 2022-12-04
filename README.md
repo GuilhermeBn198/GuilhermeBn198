@@ -7,13 +7,7 @@
   
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeBn198&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
----
-![Contribution](https://activity-graph.herokuapp.com/graph?username=GuilhermeBn198&theme=gotham&hide_border=true&area=true)
 
- <img src="https://github-profile-trophy.vercel.app/?username=&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-
- ---
- <br>
 <div align=center>
         <a href="https://www.instagram.com/guilhermebn__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
         <a href="https://www.linkedin.com/in/guilhermebn198/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%a1f75fe?style=for-the-badge&logo=LinkedIn&logoColor=white"</a>
@@ -59,7 +53,7 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{GuilhermeBn198}/count.svg" /></p> 
 <br>
 <br>
-      <h1>See my portfolio at: <a href="https://guilhermebn198.github.io/portfolio/"> <img src="https://cdn-icons-png.flaticon.com/512/1061/1061440.png"></a></h1>
+      <h1>See my portfolio <a href="https://guilhermebn198.github.io/portfolio/"> here! </a></h1>
    </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=180&section=footer&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
