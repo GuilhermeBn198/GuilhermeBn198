@@ -38,15 +38,18 @@
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=Docker&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Strapi](https://img.shields.io/badge/-Strapi-0D1117?style=for-the-badge&logo=strapi&labelColor=0D1117&textColor=0D1117)&nbsp;
+![AGILE DEVELOPMENT](https://img.shields.io/badge/-AGILE%20DEVELOPMENT-0D1117?style=for-the-badge&logo=rocket&labelColor=0D1117&textColor=0D1117)&nbsp;
           
 ### Studying in this moment:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-0D1117?style=for-the-badge&logo=flutter&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Algorithm Analysis](https://img.shields.io/badge/-Algorith%20Analysis-0D1117?style=for-the-badge&logo=Binary&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Database Systems](https://img.shields.io/badge/-Database%20Systems-0D1117?style=for-the-badge&logo=Sqlite&labelColor=0D1117&textColor=0D1117)&nbsp;
+![java](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117)&nbsp; 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=PostgreSQL&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 ### Wishing to start studying:
-already studying!
+![CLOUD](https://img.shields.io/badge/-CLOUD-0D1117?style=for-the-badge&logo=CLOUD&labelColor=0D1117&textColor=0D1117)&nbsp;
+![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=React&labelColor=0D1117&textColor=0D1117)&nbsp;
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
