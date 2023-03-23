@@ -30,22 +30,24 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Insomnia](https://img.shields.io/badge/-Insomnia-0D1117?style=for-the-badge&logo=Insomnia&labelColor=0D1117)&nbsp;
 ![NetBeans](https://img.shields.io/badge/-NetBeans-0D1117?style=for-the-badge&logo=Netbeans&labelColor=0D1117&textColor=0D1117)&nbsp;
-          
+![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
+![Strapi](https://img.shields.io/badge/-Strapi-0D1117?style=for-the-badge&logo=strapi&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Slack](https://img.shields.io/badge/-Slack-0D1117?style=for-the-badge&logo=Slack&labelColor=0D1117&textColor=0D1117)&nbsp;
+
 
 ### Other Knowledge:
 ![java](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=Oracle&labelColor=0D1117)&nbsp; 
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-0D1117?style=for-the-badge&logo=SQLite&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=Docker&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Strapi](https://img.shields.io/badge/-Strapi-0D1117?style=for-the-badge&logo=strapi&labelColor=0D1117&textColor=0D1117)&nbsp;
-![AGILE DEVELOPMENT](https://img.shields.io/badge/-AGILE%20DEVELOPMENT-0D1117?style=for-the-badge&logo=rocket&labelColor=0D1117&textColor=0D1117)&nbsp;
+![AGILE DEVELOPMENT](https://img.shields.io/badge/-AGILE%20DEVELOPMENT-0D1117?style=for-the-badge&logo=fire&labelColor=0D1117&textColor=0D1117)&nbsp;
+          
           
 ### Studying in this moment:
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Algorithm Analysis](https://img.shields.io/badge/-Algorith%20Analysis-0D1117?style=for-the-badge&logo=Binary&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Database Systems](https://img.shields.io/badge/-Database%20Systems-0D1117?style=for-the-badge&logo=Sqlite&labelColor=0D1117&textColor=0D1117)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=SQL&labelColor=0D1117&textColor=0D1117)&nbsp;    
 ![java](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=Oracle&labelColor=0D1117)&nbsp;
 ![Distributed Systems](https://img.shields.io/badge/-Distributed%20Systems-0D1117?style=for-the-badge&logo=Network&labelColor=0D1117&textColor=0D1117)&nbsp;
 
@@ -54,6 +56,8 @@
 ![CLOUD](https://img.shields.io/badge/-CLOUD-0D1117?style=for-the-badge&logo=Amazon&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=React&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![API Consumption](https://img.shields.io/badge/-Api%20-0D1117?style=for-the-badge&logo=Google&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-0D1117?style=for-the-badge&logo=flutter&labelColor=0D1117&textColor=0D1117)&nbsp;
+          
 
 
   <div align="center">
