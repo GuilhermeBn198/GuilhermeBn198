@@ -65,7 +65,7 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{GuilhermeBn198}/count.svg" /></p> 
 <br>
 <br>
-      <h1>See my portfolio <a href="https://guilhermebn198.github.io/portfolio/"> here! </a></h1>
+      <h1>See my portfolio <a href="http://isradeleon.com/github-portfolio.html?user=GuilhermeBn198#top"> here! </a></h1>
    </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=180&section=footer&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
