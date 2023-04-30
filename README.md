@@ -56,7 +56,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=SQL&labelColor=0D1117&textColor=0D1117)&nbsp;    
 ![java](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=Oracle&labelColor=0D1117)&nbsp;
 ![Distributed Systems](https://img.shields.io/badge/-Distributed%20Systems-0D1117?style=for-the-badge&logo=Network&labelColor=0D1117&textColor=0D1117)&nbsp;
-
+![AI](https://img.shields.io/badge/-ai-0D1117?style=for-the-badge&logo=ai&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 ### Wishing to start studying:
 ![CLOUD](https://img.shields.io/badge/-CLOUD-0D1117?style=for-the-badge&logo=Amazon&labelColor=0D1117&textColor=0D1117)&nbsp;
