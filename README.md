@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=180&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#f44336&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello!+my+name+is+guilherme+bernardo;I'm+22+years+old;from+Brazil;and+I+study+Computer+Science+at+UFRR;Be+welcome!+:%29)](https://git.io/typing-svg)
 
@@ -57,6 +57,9 @@
 ![java](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=Oracle&labelColor=0D1117)&nbsp;
 ![Distributed Systems](https://img.shields.io/badge/-Distributed%20Systems-0D1117?style=for-the-badge&logo=Network&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![AI](https://img.shields.io/badge/-ai-0D1117?style=for-the-badge&logo=ai&labelColor=0D1117&textColor=0D1117)&nbsp;
+![C](https://img.shields.io/badge/-c-0D1117?style=for-the-badge&logo=c&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Program Slicing](https://img.shields.io/badge/-progam%20slicing-0D1117?style=for-the-badge&logo=vercel&labelColor=0D1117&textColor=0D1117)&nbsp;
+          
 
 ### Wishing to start studying:
 ![CLOUD](https://img.shields.io/badge/-CLOUD-0D1117?style=for-the-badge&logo=Amazon&labelColor=0D1117&textColor=0D1117)&nbsp;
@@ -74,4 +77,4 @@
       <h1>See my portfolio <a href="http://isradeleon.com/github-portfolio.html?user=GuilhermeBn198#top"> here! </a></h1>
    </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=180&section=footer&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=180&section=footer&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=70"/>
