@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#f44336&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello!+my+name+is+guilherme+bernardo;I'm+22+years+old;from+Brazil;and+I+study+Computer+Science+at+UFRR;Be+welcome!+:%29)](https://git.io/typing-svg)
 
@@ -77,4 +77,4 @@
       <h1>See my portfolio <a href="http://isradeleon.com/github-portfolio.html?user=GuilhermeBn198#top"> here! </a></h1>
    </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=180&section=footer&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=70"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
