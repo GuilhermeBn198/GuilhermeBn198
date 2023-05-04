@@ -59,6 +59,7 @@
 ![AI](https://img.shields.io/badge/-ai-0D1117?style=for-the-badge&logo=ai&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![C](https://img.shields.io/badge/-c-0D1117?style=for-the-badge&logo=c&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Program Slicing](https://img.shields.io/badge/-progam%20slicing-0D1117?style=for-the-badge&logo=vercel&labelColor=0D1117&textColor=0D1117)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117&textColor=0D1117)&nbsp;
           
 
 ### Wishing to start studying:
