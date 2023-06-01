@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello!+my+name+is+guilherme+bernardo;I'm+22+years+old;from+Brazil;and+I+study+Computer+Science+at+UFRR;Be+welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GuilhermeBn198&bg_color=0d1117&color=00bfbf&line=c9d1d9&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GuilhermeBn198&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GuilhermeBn198&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Guilherme Lucas Pereira Bernardo github stats" /> 
