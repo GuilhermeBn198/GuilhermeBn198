@@ -72,7 +72,8 @@
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{GuilhermeBn198}/count.svg" /></p> 
   <br>
   <br>
-  <h1>See my portfolio <a href="http://isradeleon.com/github-portfolio.html?user=GuilhermeBn198#top"> here! </a></h1>
+  
+  <h1>See my portfolio <a href="https://guilhermebn198.github.io/portfolio/"> here! </a></h1>
 </div>
 <div align=center>
   <a href="https://www.instagram.com/guilhermebn__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
