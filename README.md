@@ -2,7 +2,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello!+my+name+is+guilherme+bernardo;I'm+24+years+old;from+Brazil;and+I+study+Computer+Science+at+UFRR;Be+welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello!+my+name+is+Guilherme+Bernardo;I'm+24+years+old;from+Brazil;and+I+study+Computer+Science+at+UFRR;Be+welcome!+:%29)](https://git.io/typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GuilhermeBn198&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -20,60 +20,51 @@
   
   
 
+
 ### Main skills:  
-![C](https://img.shields.io/badge/-c-0D1117?style=for-the-badge&logo=c&labelColor=0D1117&textColor=0D1117)&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=HTML5&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript%20Language-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Postgresql](https://img.shields.io/badge/-Postgresql-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp; 
+![C Language](https://img.shields.io/badge/-C%20Language-0D1117?style=for-the-badge&logo=c&labelColor=0D1117&textColor=0D1117)&nbsp;
+![AGILE DEVELOPMENT](https://img.shields.io/badge/-Agile%20Development-0D1117?style=for-the-badge&logo=trello&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=Docker&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=Linux&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-Python%20Language-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![JEST](https://img.shields.io/badge/-Jest%20Testing-0D1117?style=for-the-badge&logo=jest&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
 ### Tools:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Insomnia](https://img.shields.io/badge/-Insomnia-0D1117?style=for-the-badge&logo=Insomnia&labelColor=0D1117)&nbsp;
 ![DBeaver](https://img.shields.io/badge/-dbeaver-0D1117?style=for-the-badge&logo=dbeaver&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-![Strapi](https://img.shields.io/badge/-Strapi-0D1117?style=for-the-badge&logo=strapi&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Prisma](https://img.shields.io/badge/-Prisma-0D1117?style=for-the-badge&logo=prisma&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Slack](https://img.shields.io/badge/-Slack-0D1117?style=for-the-badge&logo=Slack&labelColor=0D1117&textColor=0D1117)&nbsp;
+![vscode](https://img.shields.io/badge/-vscode-0D1117?style=for-the-badge&logo=oracle&labelColor=0D1117&textColor=0D1117)&nbsp;
+
 
 ### Other Knowledge:
-![java](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=Oracle&labelColor=0D1117)&nbsp; 
 ![SQLite](https://img.shields.io/badge/-SQLite-0D1117?style=for-the-badge&logo=SQLite&labelColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=Docker&labelColor=0D1117&textColor=0D1117)&nbsp;
-![AGILE DEVELOPMENT](https://img.shields.io/badge/-AGILE%20DEVELOPMENT-0D1117?style=for-the-badge&logo=fire&labelColor=0D1117&textColor=0D1117)&nbsp;
-                   
+![C](https://img.shields.io/badge/-C%20Language-0D1117?style=for-the-badge&logo=c&labelColor=0D1117&textColor=0D1117)&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=HTML5&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Testing](https://img.shields.io/badge/-Quality%20Assurance-0D1117?style=for-the-badge&logo=cypress&labelColor=0D1117&textColor=0D1117)&nbsp;
+
 ### Studying in this moment:
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&labelColor=0D1117&textColor=0D1117)&nbsp;
-![C](https://img.shields.io/badge/-c-0D1117?style=for-the-badge&logo=c&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Algorithm Analysis](https://img.shields.io/badge/-Algorith%20Analysis-0D1117?style=for-the-badge&logo=Binary&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Database Systems](https://img.shields.io/badge/-postgresql-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117&textColor=0D1117)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=SQL&labelColor=0D1117&textColor=0D1117)&nbsp;    
-![java](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=Oracle&labelColor=0D1117)&nbsp;
-![docker](https://img.shields.io/badge/-docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117&textColor=0D1117)&nbsp;
-![AI](https://img.shields.io/badge/-ai-0D1117?style=for-the-badge&logo=ai&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Program verification](https://img.shields.io/badge/-program%20slicing-0D1117?style=for-the-badge&logo=vercel&labelColor=0D1117&textColor=0D1117)&nbsp;
-![ESBMC](https://img.shields.io/badge/-esbmc-0D1117?style=for-the-badge&logo=esbmc&labelColor=0D1117&textColor=0D1117)&nbsp;
+![IOT](https://img.shields.io/badge/-IOT-0D1117?style=for-the-badge&logo=raspberrypi&labelColor=0D1117)&nbsp;
+![AI Algorithms](https://img.shields.io/badge/-AI%20Algorithms-0D1117?style=for-the-badge&logo=openai&labelColor=0D1117&textColor=0D1117)&nbsp;
+![API Consumption](https://img.shields.io/badge/-Api%20-0D1117?style=for-the-badge&logo=Google&labelColor=0D1117&textColor=0D1117)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117&textColor=0D1117)&nbsp;    
           
 ### Wishing to start studying:
-![CLOUD](https://img.shields.io/badge/-CLOUD-0D1117?style=for-the-badge&logo=Amazon&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=React&labelColor=0D1117&textColor=0D1117)&nbsp;
-![API Consumption](https://img.shields.io/badge/-Api%20-0D1117?style=for-the-badge&logo=Google&labelColor=0D1117&textColor=0D1117)&nbsp;
+![CLOUD](https://img.shields.io/badge/-Cloud%20Development-0D1117?style=for-the-badge&logo=fedora&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-0D1117?style=for-the-badge&logo=flutter&labelColor=0D1117&textColor=0D1117)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117&textColor=0D1117)&nbsp;
-
+![GO](https://img.shields.io/badge/-GO%20Language-0D1117?style=for-the-badge&logo=go&labelColor=0D1117&textColor=0D1117)&nbsp;
 
           
 <div align="center">
-  <br><p align="centre"><b>Visitors Count</b></p>  
+  <br><h1 align="centre"><b>Visitors Count</b></h1>  
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{GuilhermeBn198}/count.svg" /></p> 
-  <br>
-  <br>
-  
-  <h1>See my portfolio <a href="https://guilhermebn198.github.io/portfolio/"> here! </a></h1>
+<!-- <h1>See my portfolio <a href="https://guilhermebn198.github.io/portfolio/"> here! </a></h1> -->
 </div>
 <div align=center>
   <a href="https://www.instagram.com/guilhermebn__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
