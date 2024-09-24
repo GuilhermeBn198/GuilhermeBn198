@@ -52,13 +52,13 @@
 ### Studying in this moment:
 ![IOT](https://img.shields.io/badge/-IOT-0D1117?style=for-the-badge&logo=raspberrypi&labelColor=0D1117)&nbsp;
 ![AI Algorithms](https://img.shields.io/badge/-AI%20Algorithms-0D1117?style=for-the-badge&logo=openai&labelColor=0D1117&textColor=0D1117)&nbsp;
-![API Consumption](https://img.shields.io/badge/-Api%20-0D1117?style=for-the-badge&logo=Google&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117&textColor=0D1117)&nbsp;    
+![GO](https://img.shields.io/badge/-GO%20Language-0D1117?style=for-the-badge&logo=go&labelColor=0D1117&textColor=0D1117)&nbsp;
           
 ### Wishing to start studying:
 ![CLOUD](https://img.shields.io/badge/-Cloud%20Development-0D1117?style=for-the-badge&logo=fedora&labelColor=0D1117&textColor=0D1117)&nbsp;
+![API Consumption](https://img.shields.io/badge/-Api%20-0D1117?style=for-the-badge&logo=Google&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-0D1117?style=for-the-badge&logo=flutter&labelColor=0D1117&textColor=0D1117)&nbsp;
-![GO](https://img.shields.io/badge/-GO%20Language-0D1117?style=for-the-badge&logo=go&labelColor=0D1117&textColor=0D1117)&nbsp;
 
           
 <div align="center">
