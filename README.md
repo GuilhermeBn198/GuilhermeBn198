@@ -18,8 +18,6 @@ MSc candidate in Applied Computing (PPCA/UFRR) · Boa Vista, Brazil 🇧🇷
 <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GuilhermeBn198&theme=github_dark" alt="GitHub Stats" />
 <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GuilhermeBn198&theme=github_dark" alt="Most used languages" />
 
-<img height="200" src="https://streak-stats.demolab.com/?user=GuilhermeBn198&hide_border=true&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf&sideLabels=c9d1d9&dates=8b949e&stroke=30363d" alt="GitHub Streak" />
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuilhermeBn198&theme=github_dark" alt="Profile Details" />
 
 <img width="58%" src="https://trophy.ryglcloud.net/?username=GuilhermeBn198&theme=algolia&row=2&no-bg=true&no-frame=true&column=4&margin-w=15&margin-h=15" alt="Trophies" />
