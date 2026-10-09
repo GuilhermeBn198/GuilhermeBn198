@@ -1,77 +1,83 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
-
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello!+my+name+is+Guilherme+Bernardo;I'm+24+years+old;from+Brazil;and+I+study+Computer+Science+at+UFRR;Be+welcome!+:%29)](https://git.io/typing-svg)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GuilhermeBn198&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GuilhermeBn198&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Guilherme Lucas Pereira Bernardo github stats" /> 
-  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeBn198&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&hide=assembly,c%2b%2b,cmake,css,html,jupyter%20notebook,vhdl&exclude_repo=dotfiles" />
-</div>
-
-[![@bguilherme51's Holopin board](https://holopin.io/api/user/board?user=bguilherme51)](https://holopin.io/@bguilherme51)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GuilhermeBn198&theme=algolia&row=2&no-bg=true&column=4&margin-w=15&margin-h=15" />
-</p>          
-  
-  
-
-
-### Main skills:  
-![JavaScript](https://img.shields.io/badge/-JavaScript%20Language-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Postgresql](https://img.shields.io/badge/-Postgresql-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp; 
-![C Language](https://img.shields.io/badge/-C%20Language-0D1117?style=for-the-badge&logo=c&labelColor=0D1117&textColor=0D1117)&nbsp;
-![AGILE DEVELOPMENT](https://img.shields.io/badge/-Agile%20Development-0D1117?style=for-the-badge&logo=trello&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=Docker&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=Linux&labelColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-Python%20Language-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![JEST](https://img.shields.io/badge/-Jest%20Testing-0D1117?style=for-the-badge&logo=jest&logoColor=1572B6&labelColor=0D1117)&nbsp;
-
-### Tools:
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Insomnia](https://img.shields.io/badge/-Insomnia-0D1117?style=for-the-badge&logo=Insomnia&labelColor=0D1117)&nbsp;
-![DBeaver](https://img.shields.io/badge/-dbeaver-0D1117?style=for-the-badge&logo=dbeaver&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Prisma](https://img.shields.io/badge/-Prisma-0D1117?style=for-the-badge&logo=prisma&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Slack](https://img.shields.io/badge/-Slack-0D1117?style=for-the-badge&logo=Slack&labelColor=0D1117&textColor=0D1117)&nbsp;
-![vscode](https://img.shields.io/badge/-vscode-0D1117?style=for-the-badge&logo=oracle&labelColor=0D1117&textColor=0D1117)&nbsp;
-
-
-### Other Knowledge:
-![SQLite](https://img.shields.io/badge/-SQLite-0D1117?style=for-the-badge&logo=SQLite&labelColor=0D1117)&nbsp;
-![C](https://img.shields.io/badge/-C%20Language-0D1117?style=for-the-badge&logo=c&labelColor=0D1117&textColor=0D1117)&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=HTML5&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Testing](https://img.shields.io/badge/-Quality%20Assurance-0D1117?style=for-the-badge&logo=cypress&labelColor=0D1117&textColor=0D1117)&nbsp;
-
-### Studying in this moment:
-![IOT](https://img.shields.io/badge/-IOT-0D1117?style=for-the-badge&logo=raspberrypi&labelColor=0D1117)&nbsp;
-![AI Algorithms](https://img.shields.io/badge/-AI%20Algorithms-0D1117?style=for-the-badge&logo=openai&labelColor=0D1117&textColor=0D1117)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117&textColor=0D1117)&nbsp;    
-![GO](https://img.shields.io/badge/-GO%20Language-0D1117?style=for-the-badge&logo=go&labelColor=0D1117&textColor=0D1117)&nbsp;
-          
-### Wishing to start studying:
-![CLOUD](https://img.shields.io/badge/-Cloud%20Development-0D1117?style=for-the-badge&logo=fedora&labelColor=0D1117&textColor=0D1117)&nbsp;
-![API Consumption](https://img.shields.io/badge/-Api%20-0D1117?style=for-the-badge&logo=Google&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-0D1117?style=for-the-badge&logo=flutter&labelColor=0D1117&textColor=0D1117)&nbsp;
-
-          
 <div align="center">
-  <br><h1 align="centre"><b>Visitors Count</b></h1>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{GuilhermeBn198}/count.svg" /></p> 
-<!-- <h1>See my portfolio <a href="https://guilhermebn198.github.io/portfolio/"> here! </a></h1> -->
-</div>
-<div align=center>
-  <a href="https://www.instagram.com/guilhermebn__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-  <a href="https://www.linkedin.com/in/guilhermebn198/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%a1f75fe?style=for-the-badge&logo=LinkedIn&logoColor=white"</a>
-</div>
-<br>
 
+# Guilherme Bernardo
 
-    
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+**Backend Engineer** · PHP / Symfony · Go · Node.js · gRPC
+MSc candidate in Applied Computing (PPCA/UFRR) · Boa Vista, Brazil 🇧🇷
+
+<a href="https://www.linkedin.com/in/guilhermebn198/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:bguilherme51@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://orcid.org/0009-0003-1173-0201"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"></a>
+
+</div>
+
+## 📊 Dashboard
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=GuilhermeBn198&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
+<img height="170" src="https://streak-stats.demolab.com/?user=GuilhermeBn198&hide_border=true&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf&sideLabels=c9d1d9&dates=8b949e&stroke=30363d" alt="GitHub Streak" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeBn198&layout=compact&langs_count=8&hide_border=true&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&hide=assembly,cmake,css,html,jupyter%20notebook,vhdl" alt="Top Languages" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuilhermeBn198&theme=github_dark" alt="Profile Details" />
+
+<img width="60%" src="https://trophy.ryglcloud.net/?username=GuilhermeBn198&theme=algolia&row=2&no-bg=true&no-frame=true&column=4&margin-w=15&margin-h=15" alt="Trophies" />
+
+</div>
+
+## 👤 About
+
+**Backend Engineer @ Pigz**, focused on **multi-tenant distributed systems** and high-throughput **fintech** architectures. I build financial *ledgers*, data pipelines and **cloud-native serverless** solutions (AWS Lambda, SQS) with **PHP (Symfony)**, **Go** and **Node.js**. I also work on **front-end and mobile** — **Next.js**, **React** and **Kotlin**. During my master's at **PPCA/UFRR** I research **software verification**, and I'm into **AI and multi-agent orchestration**.
+
+## 🛠️ Stack
+
+![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php)&nbsp;
+![Symfony](https://img.shields.io/badge/Symfony-0D1117?style=for-the-badge&logo=symfony)&nbsp;
+![Go](https://img.shields.io/badge/Go-0D1117?style=for-the-badge&logo=go)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js)&nbsp;
+![NestJS](https://img.shields.io/badge/NestJS-0D1117?style=for-the-badge&logo=nestjs&logoColor=E0234E)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript)&nbsp;
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonaws)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux)&nbsp;
+![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c)&nbsp;
+![WebAssembly](https://img.shields.io/badge/WebAssembly-0D1117?style=for-the-badge&logo=webassembly)
+
+**Front-end & Mobile**
+
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react)&nbsp;
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript)&nbsp;
+![Kotlin](https://img.shields.io/badge/Kotlin-0D1117?style=for-the-badge&logo=kotlin)&nbsp;
+![Android](https://img.shields.io/badge/Android-0D1117?style=for-the-badge&logo=android)&nbsp;
+![Flutter](https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter)
+
+## 📌 Featured projects
+
+<div align="center">
+
+<a href="https://github.com/hbgit/Map2Check"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hbgit&repo=Map2Check&hide_border=true&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" /></a>
+<a href="https://github.com/GuilhermeBn198/jarvis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeBn198&repo=jarvis&hide_border=true&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" /></a>
+<a href="https://github.com/GuilhermeBn198/ptt6-yolox-edge-bench"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeBn198&repo=ptt6-yolox-edge-bench&hide_border=true&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" /></a>
+<a href="https://github.com/GuilhermeBn198/shiftsense"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeBn198&repo=shiftsense&hide_border=true&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" /></a>
+
+</div>
+
+## 🔬 Research — Map2Check
+
+[Map2Check](https://github.com/hbgit/Map2Check) is a bug-hunting tool that finds vulnerabilities in C programs and **WebAssembly** binaries, combining **symbolic execution (KLEE)**, **fuzzing** and **LLVM** instrumentation. I'm a maintainer since 2025, working on:
+
+- **WebAssembly verification** — lifting `.wasm` binaries to LLVM IR and reusing Map2Check's instrumentation passes and the KLEE backend to detect out-of-bounds linear-memory access, overflow and reachability.
+- **Hybrid fuzzing & smart seeds** — synthesizing solver-guided seeds so fuzzing can bypass complex input-validation guards, plus migrating the fuzzing backend (LibFuzzer → AFL++).
+- **Program slicing** — slicing with respect to error sites to reduce state explosion before symbolic execution.
+- **Memory leaks & non-termination** — the `valid-steadystate` property for detecting RSS growth in long-running embedded servers (my master's research).
+
+## 🏅 Badges
+
+<a href="https://www.holopin.io/@bguilherme51"><img width="70%" src="https://www.holopin.io/api/user/board?user=bguilherme51" alt="Holopin board" /></a>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=GuilhermeBn198&color=00bfbf&style=for-the-badge&label=VISITORS" alt="Visitors" />
+</div>
