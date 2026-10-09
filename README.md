@@ -15,13 +15,14 @@ MSc candidate in Applied Computing (PPCA/UFRR) · Boa Vista, Brazil 🇧🇷
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=GuilhermeBn198&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
-<img height="170" src="https://streak-stats.demolab.com/?user=GuilhermeBn198&hide_border=true&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf&sideLabels=c9d1d9&dates=8b949e&stroke=30363d" alt="GitHub Streak" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=GuilhermeBn198&show_icons=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" alt="GitHub Stats" />
+<img height="165" src="https://streak-stats.demolab.com/?user=GuilhermeBn198&hide_border=true&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf&sideLabels=c9d1d9&dates=8b949e&stroke=30363d" alt="GitHub Streak" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeBn198&layout=compact&langs_count=8&hide_border=true&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&hide=assembly,cmake,css,html,jupyter%20notebook,vhdl" alt="Top Languages" />
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuilhermeBn198&theme=github_dark" alt="Profile Details" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeBn198&layout=compact&langs_count=8&hide_border=true&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400&hide=assembly,cmake,css,html,jupyter%20notebook,vhdl" alt="Top Languages" />
 
-<img width="60%" src="https://trophy.ryglcloud.net/?username=GuilhermeBn198&theme=algolia&row=2&no-bg=true&no-frame=true&column=4&margin-w=15&margin-h=15" alt="Trophies" />
+<img width="78%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuilhermeBn198&theme=github_dark" alt="Profile Details" />
+
+<img width="58%" src="https://trophy.ryglcloud.net/?username=GuilhermeBn198&theme=algolia&row=2&no-bg=true&no-frame=true&column=4&margin-w=15&margin-h=15" alt="Trophies" />
 
 </div>
 
@@ -76,7 +77,9 @@ MSc candidate in Applied Computing (PPCA/UFRR) · Boa Vista, Brazil 🇧🇷
 
 ## 🏅 Badges
 
-<a href="https://www.holopin.io/@bguilherme51"><img width="70%" src="https://www.holopin.io/api/user/board?user=bguilherme51" alt="Holopin board" /></a>
+<div align="center">
+  <a href="https://www.holopin.io/@bguilherme51"><img width="88%" src="https://www.holopin.io/api/user/board?user=bguilherme51" alt="Holopin board" /></a>
+</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=GuilhermeBn198&color=00bfbf&style=for-the-badge&label=VISITORS" alt="Visitors" />
